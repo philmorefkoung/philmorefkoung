@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Philmore Koung !
+- 👋 Hi, I’m Philmore !
 - 👀 I have vast interests in Machine Learning and AI 
 - 🤓 I’m currently learning LLM and various Supervised Learning Models
 - 💼 Currently working on various projects (academic and personal)
