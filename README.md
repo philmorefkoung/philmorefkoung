@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Philmore !
-- 👀 I have vast interests in Machine Learning and AI 
-- 🤓 I’m currently learning LLMs and various Supervised Learning Models
-- 💼 Currently working on various projects (academic and personal)
+- 👋 Hi, I’m Philmore!
 - 💻 Previously worked at [@Blinkfire Analytics](https://www.blinkfire.com/landing) helping deploy ML models and creating train/test datasets
 - 🎓 Currently pursuing a Master's Degree in Mathematics  
 - 📩 You can contact me via email: philmore.koung@gmail.com
