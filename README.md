@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Philmore!
+- :robot: I'm currently a Graduate ML Researacher at UT Dallas under Professor Coskunuzer
 - 💻 Previously worked at [@Blinkfire Analytics](https://www.blinkfire.com/landing) helping deploy ML models and creating train/test datasets
 - 🎓 Currently pursuing a Master's Degree in Mathematics  
 - 📩 You can contact me via email: philmore.koung@gmail.com
